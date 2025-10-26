@@ -1,0 +1,5 @@
+add_test([=[HelloTest.BasicAssertions]=]  C:/Users/Fritz/source/repos/CapstanDriveSAR/build/Debug/mytest.exe [==[--gtest_filter=HelloTest.BasicAssertions]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[HelloTest.BasicAssertions]=]  PROPERTIES WORKING_DIRECTORY C:/Users/Fritz/source/repos/CapstanDriveSAR/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[CrossTest.CrossTest1]=]  C:/Users/Fritz/source/repos/CapstanDriveSAR/build/Debug/mytest.exe [==[--gtest_filter=CrossTest.CrossTest1]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[CrossTest.CrossTest1]=]  PROPERTIES WORKING_DIRECTORY C:/Users/Fritz/source/repos/CapstanDriveSAR/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  mytest_TESTS HelloTest.BasicAssertions CrossTest.CrossTest1)

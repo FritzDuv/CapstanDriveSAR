@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/mytest[1]_tests.cmake")
+  include("C:/Users/Fritz/source/repos/CapstanDriveSAR/build/mytest[1]_tests.cmake")
+else()
+  add_test(mytest_NOT_BUILT mytest_NOT_BUILT)
+endif()

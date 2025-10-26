@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/4eb14af7ecb0c4047bbd22a1bf668d42/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/3c71c4d50c4ea86ccc2adb54460bb89a/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/7a1b7bdb1a980aa5d2e223bcbd7f3d55/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/7a1b7bdb1a980aa5d2e223bcbd7f3d55/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/7a1b7bdb1a980aa5d2e223bcbd7f3d55/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/7a1b7bdb1a980aa5d2e223bcbd7f3d55/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/7a1b7bdb1a980aa5d2e223bcbd7f3d55/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/7a1b7bdb1a980aa5d2e223bcbd7f3d55/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/7a1b7bdb1a980aa5d2e223bcbd7f3d55/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-subbuild/CMakeFiles/7a1b7bdb1a980aa5d2e223bcbd7f3d55/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

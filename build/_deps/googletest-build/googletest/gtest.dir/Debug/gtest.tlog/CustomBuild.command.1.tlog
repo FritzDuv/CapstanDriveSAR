@@ -1,0 +1,10 @@
+^C:\USERS\FRITZ\SOURCE\REPOS\CAPSTANDRIVESAR\BUILD\_DEPS\GOOGLETEST-SRC\GOOGLETEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Fritz/source/repos/CapstanDriveSAR -BC:/Users/Fritz/source/repos/CapstanDriveSAR/build --check-stamp-file C:/Users/Fritz/source/repos/CapstanDriveSAR/build/_deps/googletest-build/googletest/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
