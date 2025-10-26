@@ -1,3 +1,0 @@
-HelloTest.BasicAssertions 1 0.0060884
-CrossTest.CrossTest1 1 0.0043511
----
